@@ -7,7 +7,7 @@ const Layout = () => {
   return (
     <div className="w-screen h-screen p-2 bg-black">
         <div className="flex w-full h-[91%] gap-2">
-            <header className="w-5/12 h-full ">
+            <header className="w-4/12 h-full">
                 <nav className="w-full h-full flex flex-col gap-2">
                     <Navbar />
                     <Library />
