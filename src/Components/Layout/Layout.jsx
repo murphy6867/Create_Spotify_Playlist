@@ -21,7 +21,7 @@ const Layout = () => {
                 <Outlet />
             </main>
         </div>
-        <footer className="w-full h-[9%] bg-gray-500">
+        <footer className="w-full h-[9%] bg-transparent">
             <Footer />
         </footer>
     </div>
